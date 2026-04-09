@@ -1,4 +1,4 @@
-\# Study Notes
+# Study Notes
 
 
 
@@ -6,15 +6,15 @@ A collection of my research and academic notes across Mathematics, Statistics, a
 
 
 
-\## Subjects
+## Subjects
 
-\* \*\*Mathematical Analysis\*\*
+* **Mathematical Analysis**
 
-\* \*\*Partial Differential Equations\*\*
+* **Partial Differential Equations**
 
 
 
-\## Author
+## Author
 
 Jiaqi Chen
 
